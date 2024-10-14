@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zakgard
 - 👀 I’m interested in bicycling, reading, playing football, videogames and of course programming.
-- 🌱 I’m currently learning Unity, C#, Xamarin.
+- 🌱 I know C#, C++< Lua and Python
 -  📫 How to reach me zakharpirogov@gmail.com
 
 <!---
